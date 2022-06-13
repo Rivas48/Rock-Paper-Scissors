@@ -1,9 +1,0 @@
-import random
-
-mylist = ['rock', 'paper', 'scissors']
-
-outcome = random.choice(mylist)
-
-def game(x):
-	while outcome != x
-		if  outcome == mylist[0] &
